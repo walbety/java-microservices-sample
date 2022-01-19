@@ -1,10 +1,9 @@
-package com.walbety.micros.app;
+package com.walbety;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication//(scanBasePackages = {"com.walbety.micros.app"})
-//@ComponentScan(basePackages = "com.walbety.micros")
+@SpringBootApplication
 public class MicrosApplication {
 
 	public static void main(String[] args) {

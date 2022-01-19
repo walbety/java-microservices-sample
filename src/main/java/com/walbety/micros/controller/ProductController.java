@@ -1,10 +1,8 @@
-package com.walbety.micros.app.controller;
+package com.walbety.micros.controller;
 
-import com.walbety.micros.app.model.Product;
-import com.walbety.micros.app.repository.ProductRepository;
+import com.walbety.micros.model.Product;
+import com.walbety.micros.repository.ProductRepository;
 import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

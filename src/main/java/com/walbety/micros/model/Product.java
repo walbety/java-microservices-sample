@@ -1,4 +1,4 @@
-package com.walbety.micros.app.model;
+package com.walbety.micros.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
