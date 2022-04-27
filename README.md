@@ -1,2 +1,2 @@
-# java-microservices-sample
+# product-service
 Training java and microservices
